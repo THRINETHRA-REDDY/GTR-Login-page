@@ -1,0 +1,79 @@
+body {
+
+    background: #91a716;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    height: 100vh;
+
+    flex-direction: column;
+  }
+
+
+form {
+
+    width: 1000px;
+
+    background: rgb(85, 54, 54);
+
+    border-radius: 20px;
+
+}
+
+h1 {
+
+    text-align: center;
+
+    margin-bottom: 40px;
+
+}
+
+input {
+
+    display: block;
+
+    width: 95%;
+
+    margin: 10px auto;
+
+    border-radius: 5px;
+
+}
+
+label {
+
+    color: blue;
+
+    font-size: 18px;
+
+    padding: 10px;
+
+}
+
+button {
+
+    float: right;
+
+    background: yellow;
+
+    padding: 10px 15px;
+
+    color: blue;
+
+    border-radius: 5px;
+
+    margin-right: 10px;
+
+    border: none;
+
+}
+
+button:hover{
+
+    opacity: .10;
+
+}
